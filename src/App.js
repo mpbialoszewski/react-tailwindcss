@@ -6,7 +6,7 @@ function App() {
     <div class="max-w-sm rounded overflow-hidden shadow-lg">
       <img src={require('./dog.jpg')} alt="" className="w-full" />
       <div className="px-6 py-4">
-        
+        <div class="text-6xl">Henio</div> 
       </div>
     </div>
   );
