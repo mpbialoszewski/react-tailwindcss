@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [],
-  presets: [],
+  content: ['./src/**/*.{js,jsx,ts,tsx}'],  presets: [],
   darkMode: 'media', // or 'class'
   theme: {
     accentColor: ({ theme }) => ({
