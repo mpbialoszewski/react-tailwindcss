@@ -1,6 +1,6 @@
 {
-  "short_name": "DoggoApp!",
-  "name": "Create DoggoApp! Sample",
+  "short_name": "Image Search ",
+  "name": "Image Search React Hooks + Tailwind CSS ",
   "icons": [
     {
       "src": "favicon.ico",
